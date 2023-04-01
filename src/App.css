@@ -1,0 +1,11 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+
+.productWrapper{
+  height: 20rem;
+  width: 15rem;
+  border-radius: 1rem;
+}
